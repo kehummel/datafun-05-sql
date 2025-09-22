@@ -16,7 +16,7 @@ uuid - optional - utility for creating unique ids (helpful with databases)
 We'll also add an external dependency (e.g. pandas), so we'll need to create a project-specific virtual environment using venv and pip. 
 pandas to read from csv with cleaner code
 
-##Initial Steps
+## Initial Steps
 1. Created repository
 2. Cloned to local drive
 3. Created and updated .gitignore and requirements text
