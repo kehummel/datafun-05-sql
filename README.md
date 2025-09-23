@@ -22,3 +22,7 @@ pandas to read from csv with cleaner code
 3. Created and updated .gitignore and requirements text
 4. Installed git-add-commit-push
 5. Installed and activated virtual enviornment 
+
+## Loading Databases
+Created a Data sub folder to hold databases for the assignment. 
+Copy and pasted from the author.csv text and the books.csv text from the CC5.2 assignment into csv file. 
