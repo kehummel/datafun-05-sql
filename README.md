@@ -26,3 +26,12 @@ pandas to read from csv with cleaner code
 ## Loading Databases
 Created a Data sub folder to hold databases for the assignment. 
 Copy and pasted from the author.csv text and the books.csv text from the CC5.2 assignment into csv file. 
+
+## Creating Tables
+Create SQL queries to create "authors" and "books" tables, and then insert records into them. 
+
+## Features
+Create SQL queries to update book IDs to match the other book IDs. And delete separate author IDs
+
+## Queries 
+created multiple queries to showcase ability to join tables, sort, group, filter, and aggregate tables. 
